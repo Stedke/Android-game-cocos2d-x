@@ -1,0 +1,13 @@
+#ifndef __DEFINITIONS_H__
+#define __DEFINITIONS_H__
+
+//file with constants
+
+#define LOADINGTIME 2
+#define TRANSITIONTIME 2
+#define EDGE_COLLISION_BITMASK 1
+#define TARGET_COLLISION_BITMASK 2
+#define BULLET_COLLISION_BITMASK 3
+#define BULLET_LIMIT 7
+
+#endif // __DEFINITIONS_H__
